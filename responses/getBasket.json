@@ -1,17 +1,35 @@
 {
-  "amount": 46600,
-  "countGoods": 2,
+  "amount": 1230,
+  "countGoods": 5,
   "contents": [
     {
-      "id_product": 123,
-      "product_name": "Ноутбук",
-      "price": 45600,
+      "id_product": 101,
+      "product_name": "Duck",
+      "price": 240,
       "quantity": 1
     },
     {
-      "id_product": 456,
-      "product_name": "Мышка",
-      "price": 1000,
+      "id_product": 102,
+      "product_name": "Eagle",
+      "price": 320,
+      "quantity": 1
+    },
+    {
+      "id_product": 103,
+      "product_name": "Owl",
+      "price": 295,
+      "quantity": 1
+    },
+    {
+      "id_product": 104,
+      "product_name": "Peafowl",
+      "price": 200,
+      "quantity": 1
+    },
+    {
+      "id_product": 105,
+      "product_name": "Sparrow",
+      "price": 175,
       "quantity": 1
     }
   ]
